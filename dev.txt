@@ -1,3 +1,7 @@
 change from local repo
 change from remote repo
+<<<<<<< HEAD
 change from git-kraken repo
+=======
+change from new branch in remote repo
+>>>>>>> web
